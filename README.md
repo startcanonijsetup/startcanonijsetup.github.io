@@ -1,6 +1,6 @@
 # ij.start.canon 
 
-[![ij.start.canon](lets-get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](getstaredc.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 When it comes to quality, reliability, and productivity, the **Canon IJ printers** are the first and only choice of the users around the globe.  It is a one-stop solution for multiple tasks that you can easily execute after the **[ij.start.canon](https://startcanonijsetup.github.io/)** setup on your device. **ij.start.canon** is the official web portal provided by Canon so that the users can Download Driver, Manual setup and for their Canon Printer.  
 
